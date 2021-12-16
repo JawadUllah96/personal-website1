@@ -114,9 +114,8 @@ h3 {
   font-size: 33px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
-  position: absolute;
-  bottom: 125px;
-  left: 50%;
+  margin: auto;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .btn:hover {
@@ -135,7 +134,8 @@ h3 {
 .bottom-container{
   padding-top:50px;
   padding-bottom: 25px;
- background-color: #B8E4F0
+ background-color: #B8E4F0;
+font-family: 'Montserrat', sans-serif;
 }
 .footer-link{
   color: #11999E;
